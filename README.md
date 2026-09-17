@@ -1,4 +1,4 @@
-# 🕹️ JoyBridge 3D (or your chosen name)
+# 🕹️ JoyBridge 3D
 
 An educational hardware-in-the-loop project that bridges 2D/3D game software with real-world embedded controllers. The project follows a deliberate progression path: starting with traditional keyboard control, moving to a wired Arduino controller over a virtual serial port, and finalizing as a standalone, battery-powered wireless controller using an ESP32 over Bluetooth Low Energy (BLE).
 
